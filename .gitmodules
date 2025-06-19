@@ -1,0 +1,3 @@
+[submodule "02-terraform-ec2-test"]
+	path = 02-terraform-ec2-test
+	url = https://github.com/MEDASANI-CHARAN/02-terraform-ec2-test.git
